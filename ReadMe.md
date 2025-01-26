@@ -46,5 +46,6 @@ Do not forget to add you mongoDB compass Database link in db/inde.js file
 also add your strip key so that your payment gateway works.
 
 ## Demo
-
+![Screenshot (109)](https://github.com/aditorito/VeerJI_Chaap_Website/blob/master/git_assets/Screenshot%20(29).png)
+![Screenshot (101)](https://github.com/aditorito/VeerJI_Chaap_Website/blob/master/git_assets/Screenshot%20(30).png)
 
